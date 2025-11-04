@@ -1,6 +1,6 @@
 # ratelimit-ts
 
-[![npm version](https://img.shields.io/npm/v/ratelimit-ts.svg)](https://www.npmjs.com/package/ratelimit-ts)
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 Lightweight, production-ready NPM library to add customizable rate limiting to any REST API or bot system. Built with TypeScript and Redis for high performance and distributed system support.
@@ -383,4 +383,5 @@ MIT License - see [LICENSE](LICENSE) file for details.
 ## Support
 
 For issues, questions, or contributions, please visit the [GitHub repository](https://github.com/YOUR_USERNAME/ratelimit-ts).
+
 
